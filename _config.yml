@@ -1,6 +1,14 @@
-title: Minimal theme
+title: <p align="center"> Vishnu Vivek </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: 
+  <p align="center">
+  <br>   
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Also handing the Big Data from real-time Ad call data.
+  Worked with CHEORS India at data base team.
+  Working in Pharma domain for 4 years.
+  <br>
+  </p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
